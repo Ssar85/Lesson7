@@ -1,0 +1,6 @@
+c:\Geekbr\Lesson7\Lesson7-1\decompilation\Lesson7\bin\Debug\Lesson7.exe
+c:\Geekbr\Lesson7\Lesson7-1\decompilation\Lesson7\bin\Debug\Lesson7.pdb
+c:\Geekbr\Lesson7\Lesson7-1\decompilation\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+c:\Geekbr\Lesson7\Lesson7-1\decompilation\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+c:\Geekbr\Lesson7\Lesson7-1\decompilation\Lesson7\obj\Debug\Lesson7.exe
+c:\Geekbr\Lesson7\Lesson7-1\decompilation\Lesson7\obj\Debug\Lesson7.pdb
